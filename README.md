@@ -1,4 +1,22 @@
 
+<h1 align="center" >WHACK A  MOLE</h1>
+<h6 align="center" >A vanilla JavaScript games.</h6>
+
+## Demo
+
+
+<div align="center">
+
+<img src='./assets/screenshot.png'  alt='JavaScript Coding Challenges jahidul islam zim' id='header'/>
+
+</div>
+
+<br> 
+
+#### Link : <a href="https://jahidulislamzim.github.io/whack-a-mole" target="_blank">Play Games</a>
+
+<br> 
+
 <div align="center" >
 
 <a href="mailto:jahidulislamzim845@gmail.com">
