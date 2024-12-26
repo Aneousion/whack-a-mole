@@ -6,7 +6,7 @@
 
 body {
   height: 100vh;
-  background-color: rgb(58, 129, 0);
+  background-color: brown;
   color: #fff;
   display: flex;
   flex-direction: column;
