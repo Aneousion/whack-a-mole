@@ -120,6 +120,7 @@ h3 {
 }
 
 .footer {
+  color: blue;
   text-align: center;
   padding: 1rem;
   margin-top: 3rem;  /* Increased margin-top */
