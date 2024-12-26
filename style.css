@@ -136,3 +136,72 @@ h3 {
 .footer a:hover {
   text-decoration: underline;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+      padding: 20px;
+      justify-content: flex-start;
+      padding-top: 100px;
+      overflow-y: auto;
+  }
+
+  .box {
+      position: relative;
+      top: 0;
+      left: 0;
+      width: 100%;
+      max-width: 300px;
+      margin-bottom: 2rem;
+  }
+
+  .board {
+      height: auto;
+      aspect-ratio: 1;
+      width: 100%;
+      max-width: 400px;
+      gap: 20px;
+  }
+
+  .hole .mole {
+      width: 80%;
+  }
+
+  .cursor {
+      width: 80px;
+      height: 80px;
+  }
+
+  .main-title {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body {
+      padding: 15px;
+      padding-top: 80px;
+  }
+
+  .board {
+      gap: 15px;
+  }
+
+  h3 {
+      font-size: 1.1rem;
+  }
+
+  .box {
+      padding: 0.5rem;
+  }
+
+  .cursor {
+      width: 60px;
+      height: 60px;
+  }
+
+  .finalScore {
+      width: 90%;
+      max-width: 280px;
+  }
+}
